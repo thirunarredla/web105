@@ -1,0 +1,6 @@
+tesnorflow
+numpy
+pandas
+librosa
+kivy
+kivymd
