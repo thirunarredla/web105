@@ -1,4 +1,4 @@
-tesnorflow
+tensorflow
 numpy
 pandas
 librosa
